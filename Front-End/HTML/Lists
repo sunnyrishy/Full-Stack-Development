@@ -1,0 +1,19 @@
+1. Ordered List
+
+It automatically adds the line numbers to all the items in the list.
+
+<ol>
+  <li> Milk</li>
+  <li> Bread</li>
+  <li> Eggs</li>
+</ol>
+
+2. Un-ordered List
+
+<ul>
+  <li> Milk</li>
+  <li> Bread</li>
+  <li> Eggs</li>
+</ul>
+
+3. Definition Lists
