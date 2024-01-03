@@ -1,0 +1,65 @@
+1. Superscript Tag
+
+<sup> </sup>
+
+Example : <p> The formula here is E = MC<sup>2</sup></p>
+
+2. Subscript Tag
+
+<sub>  </sub>
+
+Example : <p> The formula here is CO<sub>2</sub> </p>
+
+3. Horizontal Line
+
+<hr/>
+
+Adds a thin horizontal line in the page.
+
+4. Break Line
+
+<br/>
+
+Braks the text and continues from next line.
+
+5. Bold or Strong
+
+<b> </b> or <strong> </strong>
+
+Example : <p> My name is <b> Sunny Rishy Vardhan </b> and the text goes here.
+
+6. Italic Text
+
+<i> </i>
+
+Example : <p> <i> This is in Italic text form </i></p>
+
+7. Quotes
+
+<q> </q>
+
+Example : <q> Albert Einstein is the greatest scientist of all time.</q>
+
+8 . Blockquote
+
+<blockquote> </blockquote>
+
+Adds some indentation like structure (adds some spacing just like padding ) around it.
+
+Example : <blockquote> This is a sample of a paragraph using blockquote tag in HTML</blockquote>
+
+9.  Insert or Underline Tag
+
+Adds a underline to that specific text
+
+<ins> </ins> or <u> </u>
+
+Example : <p> <ins> Best </ins></p>
+
+10. Delete Tag or Stroke Tag
+
+<del> </del> or <s> </s>
+
+Adds a strike off line to that text
+
+Example <p> <del> Worst </del></p>
