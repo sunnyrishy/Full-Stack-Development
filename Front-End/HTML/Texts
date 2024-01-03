@@ -1,0 +1,19 @@
+1. Headings going from large to small size.
+
+<h1> </h1>
+
+<h2> </h2>
+
+<h3> </h3>
+
+<h4> </h4>
+
+<h5> </h5>
+
+<h6> </h6>
+
+<h7> </h7> This is equal to paragraph tag.
+
+2. Paragraph Tag
+
+<p> </p>
