@@ -18,4 +18,18 @@ It automatically adds the line numbers to all the items in the list.
 
 3. Definition Lists
 
-<
+<dl> 
+
+    <dt> </dt>
+    <dd> </dd>
+
+</dl>
+
+Here, dl is the definition list and dt is the definition term and dd is the defenition for it.
+
+Example : 
+
+<dl> 
+  <dt> Apple</dt>
+  <dd> It is one of the common known fruit.</dd>
+</dl>
